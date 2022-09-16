@@ -42,4 +42,4 @@ exampl.e@gmail.com
 **A:** It was obfuscated and compiled with pyinstaller, SRC soon on GH (SRC now on this repo)
 
 ## Contact Information:
-* Discord: Vasilis#5518 (1007816889268969532)
+* Discord: Vasilis#5708 (1007816889268969532)
