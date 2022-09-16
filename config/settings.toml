@@ -1,0 +1,45 @@
+#
+#    ██╗   ██╗ █████╗ ███████╗██╗██╗     ██╗███████╗
+#    ██║   ██║██╔══██╗██╔════╝██║██║     ██║██╔════╝
+#    ██║   ██║███████║███████╗██║██║     ██║███████╗
+#    ╚██╗ ██╔╝██╔══██║╚════██║██║██║     ██║╚════██║
+#     ╚████╔╝ ██║  ██║███████║██║███████╗██║███████║
+#      ╚═══╝  ╚═╝  ╚═╝╚══════╝╚═╝╚══════╝╚═╝╚══════╝
+#              Developed by Vasilis#5708
+
+# ---------------------------------
+# -> (section: Unique Access Code)
+# @code -> Unique Access Code to register for morty events
+# ---------------------------------
+
+[access-code]
+code = ""
+
+# ---------------------------------
+# -> (section: Details)
+# @firstName -> First name you want to use for registration (Example: Quandale)
+# @lastName -> Last name you want to use for registration (Example: Dingle)
+# @birthDate -> Last name you want to use for registration (Example: 01/10/1978)
+# @phoneNumber -> Last name you want to use for registration (Example: 5306627084)
+# ---------------------------------
+
+[details]
+firstName = ""
+lastName = ""
+birthDate = ""
+phoneNumber = ""
+
+# ---------------------------------
+# -> (section: Location)
+# Disclaimer: Whatever address you input the winning item will be shipped too
+# @street -> The street of the address you are using (Example: 625 Elm St #3921)
+# @city -> The city of the address you are using (Example: Woodland)
+# @state -> The state of the address you are using (Example: CA, for california, they are abbreviated)
+# @zip -> The zip of the address you are using (Example: 95695)
+# ---------------------------------
+
+[location]
+street = ""
+city = ""
+state = ""
+zip = ""
