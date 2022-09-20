@@ -37,7 +37,7 @@ def start_bot(settings: dict, emails: list, logger):
 def main():
     # create the CLI Logger
     cli_logger = log()
-    cli_logger.print(caller="Main", text="MortyCooker Loaded! Developed by Vasilis#5508 with <3")
+    cli_logger.print(caller="Main", text="MortyCooker Loaded! Developed by Vasilis#5708 with <3")
 
     # loading all possible emails inside of
     with open("config/data/emails.txt", "r") as f:
